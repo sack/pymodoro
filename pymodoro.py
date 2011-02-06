@@ -67,6 +67,6 @@ class Timer(threading.Thread):
 			notif.setIcon("/home/ffourc/Projets/pymodoro/pomodoro.jpg")
 			#notif.setTimeout(7)
 			notif.notify()
-t = Timer(15)
+t = Timer(1500)
 t.start()
 

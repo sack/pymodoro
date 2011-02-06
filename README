@@ -1,0 +1,10 @@
+Pymodoro 
+
+A)Instalation 
+1. edit bashrc vi ~/.bashrc
+2. add alias :  alias pymodoro='python ~/PATH_OF_PYMODORO/pymodoro.py&'
+3. reload bashrc : source ~/.bashrc
+B)run 
+pymodoro
+
+
